@@ -64,7 +64,9 @@ html{
   font-family: 'Public Sans', sans-serif;
   font-size: 18px;
 }
-
+body{
+  scroll-behavior: smooth;
+}
 // START HEADER -------------------
 header{
   position: fixed;
